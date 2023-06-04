@@ -15,7 +15,7 @@ body{
    background-attachment: fixed;
 }
 .content{
-    background:https://tenor.com/view/crying-cry-spongebob-squarepants-gif-24438933;
+    background:background: ‘crying-cry.gif’;
     width: 50%;
     padding: 40px;
     margin: 100px auto;
