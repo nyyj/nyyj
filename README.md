@@ -10,12 +10,12 @@
    </script>
    <style>
 body{
-   background-image:url(https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif);
+   background-image:url(https://tenor.com/view/crying-cry-spongebob-squarepants-gif-24438933);
    background-size: cover;
    background-attachment: fixed;
 }
 .content{
-    background: https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif;
+    background:https://tenor.com/view/crying-cry-spongebob-squarepants-gif-24438933;
     width: 50%;
     padding: 40px;
     margin: 100px auto;
@@ -33,20 +33,22 @@ body{
    <img src="https://c.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif">
    <p style="color: white""> goodluck sa imong studies ga and dont forget to always believe in yourself</p>
    
-   <img src="https://c.tenor.com/1bN1lZmbwWcAAAAj/line.gif">
+   <img src="https://tenor.com/view/happy-tears-of-joy-crying-gif-18664502">
    <p style="color: white""> i know nga gikapoy naka and im always here to support you ga and dont worry about me</p>
    
    <img src="https://c.tenor.com/mJ7Tkj3KIn0AAAAj/peach-and.gif">
-   <p style="color: white""> cus naa rako permi, im not going anywhere ga</p>
+   <p style="color: white""> naa rako permi, im not going anywhere ga</p>
    
-   <img src="https://c.tenor.com/CdliypdvLTEAAAAj/quby-pentol.gif">
+   <img src="https://tenor.com/view/cat-cute-happy-jumping-gif-26555219">
    <p style ="color: white""> whatever it is Im proud of you ga</p>
    
-   <img src="https://c.tenor.com/tsniEXs1tFkAAAAj/fbcuteboy.gif">
+   <img src="https://tenor.com/view/cry-gif-25866484">
    <p style ="color: white""> unta mag pis nata ga and gina change nanako ako kaugalingon </p>
    
-   <img src="https://c.tenor.com/LxggFGxwOjIAAAAj/shy-cat.gif">
+   <img src="https://tenor.com/view/cat-sad-gif-26415220">
    <h1 style="font-family:Times New Roman">i love you so much ga</h1>
    
    </body>
    </html>
+   
+ 
